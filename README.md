@@ -1,5 +1,5 @@
 # Cuda Installation
-* Check Cuda Version\
+* Check Cuda Version in cmd\
 ```nvidia-smi```
 * Download Cuda
 https://developer.nvidia.com/cuda-toolkit-archive
